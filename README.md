@@ -4,6 +4,6 @@ I'm a second year computer science student at UC Davis working on full stack pro
 Currently practicing:
 - React.js/Next.js
 
-And check out [simplify](https://github.com/himanimanjunath/simplify), my most recent project. ✨
+Plus, check out [simplify](https://github.com/himanimanjunath/simplify), my most recent project. ✨
 
 Thanks for reading :)
