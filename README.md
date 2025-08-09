@@ -1,5 +1,5 @@
 ## hi, i'm himani!
-I'm a second year computer science student at UC Davis working on full stack projects. Things in progress!
+I'm a second year computer science student at UC Davis working on full stack projects. 
 
 Currently practicing:
 - React.js/Next.js
