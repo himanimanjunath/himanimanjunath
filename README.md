@@ -1,4 +1,4 @@
-## hi, i'm himani!
+## Hi, I'm Himani!
 I'm a second year computer science student at UC Davis working on full stack projects. 
 
 Currently practicing:
@@ -6,4 +6,3 @@ Currently practicing:
 
 Check out [simplify](https://github.com/himanimanjunath/simplify), my most recent project. 🫧
 
-Thanks for reading :)
