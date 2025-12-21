@@ -1,8 +1,23 @@
 ## Hi, I'm Himani!
-I'm a second year computer science student at UC Davis. 
+I'm a second year computer science student at UC Davis, aspiring to become a Software Engineer. 
 
-Currently practicing:
-- React.js/Next.js 
+Past Experience + Projects 🌷:
 
-Check out [simplify](https://github.com/himanimanjunath/simplify), one of my favorite projects. 🫧
+Aug 2023 - May 2024: VP of Web Development at Insane Ink
+[Website Link](https://insaneink.com/)
+[Repository](https://github.com/insaneinkwebdev/InsaneInk)
+
+Apr 2025: HackDavis project - simplify (Chrome Extension)
+[Chrome Extension Link](https://chromewebstore.google.com/detail/simplify/mpaincmooglglogamcdcidbhpclmajhj)
+[Repository](https://github.com/himanimanjunath/simplify)
+
+Feb 2025 – Jun 2025: Wildlife Species Identifer at Machine Learning Student Network
+[Project Link](https://wildlife-species-identifier.vercel.app/)
+[Repository](https://github.com/himanimanjunath/wildlife-species-identifier)
+
+Oct 2025 - Present: Software Developer at #include 
+[Repository](https://github.com/himanimanjunath/davis_fundraisers)
+
+Oct 2025 - Present: Software Developer at Data Driven Change
+* Prototyping an accessible Unitrans transit app with real-time tracking, haptic alerts, and crowding indicators.
 
