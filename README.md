@@ -15,6 +15,10 @@ Feb 2025 – Jun 2025: Wildlife Species Identifer (computer vision project) at M
 * [Project Link](https://wildlife-species-identifier.vercel.app/)
 * [Repository](https://github.com/himanimanjunath/wildlife-species-identifier)
 
+Aug 2025 - Sept 2025: Revamped restaurant website for Masala Dosa Vegetarian Restaurant 
+* [Website Link](https://masala-dosa-website.vercel.app/)
+* [Repository](https://github.com/himanimanjunath/masala-dosa-website)
+
 Oct 2025 - Present: Software Developer at #include 
 * [Repository](https://github.com/himanimanjunath/davis_fundraisers)
 
