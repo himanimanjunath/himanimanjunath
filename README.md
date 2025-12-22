@@ -12,7 +12,6 @@ Apr 2025: simplify (Chrome extension project) at HackDavis
 * [Repository](https://github.com/himanimanjunath/simplify)
 
 Feb 2025 – Jun 2025: Wildlife Species Identifer (computer vision project) at Machine Learning Student Network
-* [Project Link](https://wildlife-species-identifier.vercel.app/)
 * [Repository](https://github.com/himanimanjunath/wildlife-species-identifier)
 
 Aug 2025 - Sept 2025: Revamped restaurant website for Masala Dosa Vegetarian Restaurant 
